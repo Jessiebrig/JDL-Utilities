@@ -14,7 +14,7 @@ namespace JDL_Utilities
                 //Internal Commands
                 if (icommand[0] == "i")
                 {
-                    if (icommand[2] == "Brigidig2021%^&")
+                    if (icommand[2] == "YourSecretPassword")
                     {
                         if (icommand[1] == "ShowConfigs")
                         {
