@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="JDL_Utilities.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Profiles" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Chrome_Jessie D:\Profiles\Jessie&lt;/string&gt;
+  &lt;string&gt;Chrome_Black D:\Profiles\Black&lt;/string&gt;
+  &lt;string&gt;Brave_Black D:\Profiles\Black_Brave&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="DevMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Chrome_Directory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"C:\Program Files\Google\Chrome\Application\chrome.exe"</Value>
+    </Setting>
+    <Setting Name="Brave_Directory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe"</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

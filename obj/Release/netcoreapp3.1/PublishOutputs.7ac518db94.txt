@@ -1,0 +1,5 @@
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Release\netcoreapp3.1\publish\JDL Utilities.exe
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Release\netcoreapp3.1\publish\JDL Utilities.dll
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Release\netcoreapp3.1\publish\JDL Utilities.deps.json
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Release\netcoreapp3.1\publish\JDL Utilities.runtimeconfig.json
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Release\netcoreapp3.1\publish\JDL Utilities.pdb

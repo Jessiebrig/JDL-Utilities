@@ -1,0 +1,19 @@
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Release\netcoreapp3.1\JDL Utilities.exe
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Release\netcoreapp3.1\JDL Utilities.deps.json
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Release\netcoreapp3.1\JDL Utilities.runtimeconfig.json
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Release\netcoreapp3.1\JDL Utilities.runtimeconfig.dev.json
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Release\netcoreapp3.1\JDL Utilities.dll
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Release\netcoreapp3.1\JDL Utilities.pdb
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL Utilities.csprojAssemblyReference.cache
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL_Utilities.ChromeX2_Form.resources
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL_Utilities.CMD_Utility_Form.resources
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL_Utilities.Main.resources
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL_Utilities.Properties.Resources.resources
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL_Utilities.Settings_Form.resources
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL Utilities.csproj.GenerateResource.cache
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL Utilities.AssemblyInfoInputs.cache
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL Utilities.AssemblyInfo.cs
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL Utilities.csproj.CoreCompileInputs.cache
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL Utilities.dll
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL Utilities.pdb
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Release\netcoreapp3.1\JDL Utilities.genruntimeconfig.cache

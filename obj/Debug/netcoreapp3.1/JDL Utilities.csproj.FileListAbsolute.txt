@@ -1,0 +1,48 @@
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\JDL Utilities.exe
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\JDL Utilities.deps.json
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\JDL Utilities.runtimeconfig.json
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\JDL Utilities.runtimeconfig.dev.json
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\JDL Utilities.dll
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\JDL Utilities.pdb
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL_Utilities.ChromeX2_Form.resources
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL_Utilities.CMD_Utility_Form.resources
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL_Utilities.Main.resources
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL_Utilities.Properties.Resources.resources
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.csproj.GenerateResource.cache
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.AssemblyInfoInputs.cache
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.AssemblyInfo.cs
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.csproj.CoreCompileInputs.cache
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.dll
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.pdb
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.genruntimeconfig.cache
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\My Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL_Utilities.Selenium.resources
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.csproj.CopyComplete
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.csproj.AssemblyReference.cache
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL_Utilities.Advance_Form.resources
+D:\My_Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\JDL Utilities.exe
+D:\My_Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\JDL Utilities.deps.json
+D:\My_Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\JDL Utilities.runtimeconfig.json
+D:\My_Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\JDL Utilities.runtimeconfig.dev.json
+D:\My_Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\JDL Utilities.dll
+D:\My_Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\JDL Utilities.pdb
+D:\My_Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\My_Programs\JDL Utilities\JDL Utilities\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.csproj.AssemblyReference.cache
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL_Utilities.Advance_Form.resources
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL_Utilities.ChromeX2_Form.resources
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL_Utilities.CMD_Utility_Form.resources
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL_Utilities.Main.resources
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL_Utilities.Properties.Resources.resources
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL_Utilities.Selenium.resources
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.csproj.GenerateResource.cache
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.AssemblyInfoInputs.cache
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.AssemblyInfo.cs
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.csproj.CoreCompileInputs.cache
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.csproj.CopyComplete
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.dll
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.pdb
+D:\My_Programs\JDL Utilities\JDL Utilities\obj\Debug\netcoreapp3.1\JDL Utilities.genruntimeconfig.cache
